@@ -3,13 +3,16 @@ HashiCorp Certified Terraform Associate Practice Exam Q &amp; A.
 Here storing all the resources I have.       
 No Sponsors or not recommending any paid courses to buy. Just collected all available free resources here.        
 
-Links to Online free resources available:       
+
+## Video course from freeCodeCamp.org 
+
+![HashiCorp Terraform Associate Certification(003) Course](https://youtu.be/SPcwo0Gq9T8?si=NifxLMAkfI1WVRjM)       
+
+
+## Links to Online free exam dumps available:       
 [Dumpbase](https://www.dumpsbase.com/freedumps/ta-003-p-exam-dumps-v12-02-are-available-with-the-most-updated-exam-questions-check-ta-003-p-free-dumps-part-1-q1-q40-first.html)            
 
-https://github.com/devenes/HashiCorp-Certified-Terraform-Associate/blob/main/README.md         
-
-
-
+https://github.com/devenes/HashiCorp-Certified-Terraform-Associate/blob/main/README.md             
 
 ## More Practice Q&A
 
