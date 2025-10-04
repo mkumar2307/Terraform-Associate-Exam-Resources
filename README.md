@@ -20,7 +20,7 @@ Free Practice exam: https://www.exampro.co/terraform
 
 https://github.com/devenes/HashiCorp-Certified-Terraform-Associate/blob/main/README.md             
 
-### Basic Terraform Commands:    
+## Basic Terraform Commands:    
 
 ```bash
 terraform init      # Initialize the Terraform working directory
@@ -48,5 +48,22 @@ terraform validate  # To check whether the configuaration is valid or not
 ![TFA_13](./More_TFA_questions/TFA_13.png)
 ![TFA_14](./More_TFA_questions/TFA_14.png)
 ![TFA_15](./More_TFA_questions/TFA_15.png)
-![TFA_16](./More_TFA_questions/TFA_16.png)
+![TFA_16](./More_TFA_questions/TFA_16.png)          
 
+
+## Disclaimer
+
+While every effort has been made to ensure accuracy, some answers may be incorrect. Please conduct your own research to verify the information. Additionally, the questions provided do not represent actual exam questions. This document is intended solely for testing your knowledge and enhancing your practice.
+
+
+
+## Contributing
+
+If you would like to contribute to this repository, please follow the steps below:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+5. Wait for the pull request to be reviewed and merged
+6. :tada: Celebrate! :tada:
