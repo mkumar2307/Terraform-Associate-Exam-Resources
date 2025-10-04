@@ -20,6 +20,17 @@ Free Practice exam: https://www.exampro.co/terraform
 
 https://github.com/devenes/HashiCorp-Certified-Terraform-Associate/blob/main/README.md             
 
+### Basic Terraform Commands:    
+
+```bash
+terraform init      # Initialize the Terraform working directory
+terraform plan      # Preview the changes Terraform will make to match your configuration
+terraform apply     # Apply the changes required to reach the desired state
+terraform destroy   # Destroy the infrastructure managed by Terraform
+terraform fmt       # Automatically reformats all configuration files in the current directory according to HashiCorp's recommended style.
+terraform validate  # To check whether the configuaration is valid or not
+```
+
 ## More Practice Q&A
 
 ![TFA_1](./More_TFA_questions/TFA_1.png)
