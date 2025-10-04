@@ -1,9 +1,6 @@
 # Terraform-Associate-Exam-Resources
 HashiCorp Certified Terraform Associate Practice Exam Q &amp; A.        
-Here storing all the resources I have.       
-
-## Note
-This repository contains only free resources. We do not sponsor, endorse, or recommend any paid courses or services.        
+Here storing all the resources I have.             
 
 Prepare for the Terraform Associate (003) Certification Exam: ![Hasicorp's Official documentation and learning path](https://developer.hashicorp.com/terraform/tutorials/certification-003)
 
@@ -69,3 +66,7 @@ If you would like to contribute to this repository, please follow the steps belo
 4. Submit a pull request
 5. Wait for the pull request to be reviewed and merged
 6. :tada: Celebrate! :tada:
+
+
+## Note
+This repository contains only free resources. We do not sponsor, endorse, or recommend any paid courses or services.  
