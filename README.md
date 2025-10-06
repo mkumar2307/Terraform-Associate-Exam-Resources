@@ -8,11 +8,13 @@ Terraform associate certification page: ![Infrastructure
 Automation Certifications](https://developer.hashicorp.com/certifications/infrastructure-automation)          
 
 
-## Video course from freeCodeCamp.org 
+## Video courses 
 
-![HashiCorp Terraform Associate Certification(003) Course](https://youtu.be/SPcwo0Gq9T8?si=NifxLMAkfI1WVRjM)       
+By freeCodeCamp.org: ![HashiCorp Terraform Associate Certification(003) Course](https://youtu.be/SPcwo0Gq9T8?si=NifxLMAkfI1WVRjM)       
 
-Free Practice exam: https://www.exampro.co/terraform
+By Rahul Wagh: ![HashiCorp Terraform Associate Certification Course (003) - Full course](https://youtu.be/OHzZ7KuioMA?si=ocaQI7sIuhJ5ioEO)
+
+If you feel like too many ads in youtube you can register here for free video course and Practice exam: https://www.exampro.co/terraform
 
 ## Links to Online free exam dumps available:       
 [Dumpbase](https://www.dumpsbase.com/freedumps/ta-003-p-exam-dumps-v12-02-are-available-with-the-most-updated-exam-questions-check-ta-003-p-free-dumps-part-1-q1-q40-first.html)            
