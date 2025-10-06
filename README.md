@@ -52,7 +52,7 @@ terraform validate  # To check whether the configuaration is valid or not
 
 ## Disclaimer
 
-While every effort has been made to ensure accuracy, some answers may be incorrect. Please conduct your own research to verify the information. Additionally, the questions provided do not represent actual exam questions. This document is intended solely for testing your knowledge and enhancing your practice.
+While every effort has been made to ensure accuracy, **some answers may be incorrect**. Please conduct your own research to verify the information. Additionally, the questions provided do not represent actual exam questions. This document is intended solely for testing your knowledge and enhancing your practice.
 
 
 
